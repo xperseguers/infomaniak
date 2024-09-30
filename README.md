@@ -1,0 +1,2 @@
+# infomaniak
+API for Infomaniak
